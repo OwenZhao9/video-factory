@@ -1,0 +1,20 @@
+# 密钥：绝不提交
+apikey.txt
+ark_key.txt
+gemini_key.txt
+
+# 媒体
+input/
+output/
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Python / 系统 / 备份
+__pycache__/
+*.pyc
+.DS_Store
+*.bak
+prompts.py.bak_*
